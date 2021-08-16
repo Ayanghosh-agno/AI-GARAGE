@@ -7,3 +7,5 @@ Securing homes has become one of the concerning issues. Today homes are being mo
 being burgled. For this manner home security is needed. Home security implicitly means a secured mechanism for the door. So the
 idea of Smart door lock system has been proposed. This is one of the most popular home security systems. With this system, only
 the authorized individuals can gain the permission to access the doors. Thus one can monitor his/her house from anywhere.
+
+Yes, you can use IoT technology to control and operate your garage door! The IoT-based smart garage door eliminates the need for carrying bulky keychains. All you need is to configure and integrate your smartphone with the home IoT network, and you can effortlessly open or close your garage door with just a few clicks of a button.
