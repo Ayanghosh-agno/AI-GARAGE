@@ -1,1 +1,3 @@
 # AI-Based-Garage
+
+A smart garage is one of the essential needs of a smart home. These doors not only help from burglars but also closes on its own as soon as it senses that someone took the car out. Unlike a manual garage door, the smart garage door gives a tough time to the thieves for entering the house. The project provides the user with a simple monitoring system that enables them to act more security conscious, effectively increasing the safety and security of their home. The device consists of a transmitting unit in the garage that tracks the door’s position, and a portable, wireless receiving device in the house that displays the garage door’s status.
