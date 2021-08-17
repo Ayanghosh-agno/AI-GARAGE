@@ -67,7 +67,7 @@ AI-GARAGE contains the following features:-
 
 
 ## Long Description <a name="Long-Description"></a>
-[Long Description Document Link](https://github.com/Ayanghosh-agno/)
+[Long Description Document Link](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/DOCUMENTATION/AI-GARAGE.pdf)
 
 
 ### About the hardware setup <a name="hardware-part"></a>
