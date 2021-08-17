@@ -1,13 +1,144 @@
-# AI-Based-Garage
+<a name="project-name"></a>
+<div align="center">
+  <img src="https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/garage.png" height=150px>
+</div>
+<div align="center">
+  
+# AI-GARAGE
+  >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
+</div> 
 
-A smart garage is one of the essential needs of a smart home. These doors not only help from burglars but also closes on its own as soon as it senses that someone took the car out. Unlike a manual garage door, the smart garage door gives a tough time to the thieves for entering the house. The project provides the user with a simple monitoring system that enables them to act more security conscious, effectively increasing the safety and security of their home. The device consists of a transmitting unit in the garage that tracks the door’s position, and a portable, wireless receiving device in the house that displays the garage door’s status.
+## What is AI-GARAGE?
+
+The AI GARAGE is a prototype of the smart garage system, which is one of the essential needs of a smart home. These doors not only help from burglars but also closes on its own as soon as it senses that someone took the car out. Unlike a manual garage door, the smart garage door gives a tough time to the thieves for entering the house. Similarly It also gives the owner a hassle free entry to the garage as soon as the System recognizes either the car number plate or the face. The project provides the user with a simple monitoring system that enables them to act more security conscious, effectively increasing the safety and security of their home with the use of some latest technology Like AI,ML and IoT implemented in the IBM cloud.
+
+## Contents 
+- [AI GARAGE](#project-name)
+  01. [Short Description](#Short-Description)
+      - [What's the problem?](#whats-the-problem)
+      - [Proposed Solution](#Proposed-Solution)
+  2. [Demo Video](#Demo-Video)
+  3. [Architecture](#Architecture)
+  4. [Long Description](#Long-Description)
+  5. [Hardware Requirements](#Hardware-Requirements)
+  6. [Software/Access Requirements](#Software/Access-Requirements)
+  7. [Project Roadmap](#Project-Roadmap)
+  8. [Circuit Setup](#Circuit-Setup)
+  9. [Development/Code Setup](#Development/Code-Setup)
+  10. [Planned for Future](#Planned-for-Future)
+  11. [Authors](#Authors)
+
+<h2 align="center"> Short Description <a name="Short-Description"></a> </h2>
+
+### What's the problem? <a name="whats-the-problem"></a>
+
+The major issue in now a days are the busy life of the human mankind, due to which many of us forget to close the garage door in hurry and the consequences is very well known to us. Securing homes has become one of the concerning issues. Today homes are being more vulnerable for several threats especially being burgled. For this manner home security is needed. Home security implicitly means a secured mechanism for the door Also, there might be way to check if our garage door is open or close remotely form the CCTV installed in the garage but it is difficult for us to operate the door remotely. Moreover in this world where technology is taking over in a rocket speed we need to open the garage door every time manually while entering with our car.
 
 
-Securing homes has become one of the concerning issues. Today homes are being more vulnerable for several threats especially
-being burgled. For this manner home security is needed. Home security implicitly means a secured mechanism for the door. So the
-idea of Smart door lock system has been proposed. This is one of the most popular home security systems. With this system, only
-the authorized individuals can gain the permission to access the doors. Thus one can monitor his/her house from anywhere.
+### Proposed Solution <a name="Proposed-Solution"></a>
 
-Yes, you can use IoT technology to control and operate your garage door! The IoT-based smart garage door eliminates the need for carrying bulky keychains. All you need is to configure and integrate your smartphone with the home IoT network, and you can effortlessly open or close your garage door with just a few clicks of a button.
+In this AI-GARAGE we had tried to eliminate the manual interaction as much as we can, using some latest technology like IoT, AI and ML to control and operate the garage door automatically or through our smartphones. The IoT-based smart garage door eliminates the need for carrying bulky keychains. All we need is to configure and integrate with smartphone with the home IoT network and with our facial image and car’s number plate and we can effortlessly open or close your garage door with just a few clicks of a button or automatically through the facial recognition and number/license plate detection!
 
-Internet of things is the communication of anything with any other things. The door plays an important role in home security. So, providing a secured garage door system for houses has become a vital research. The goal is to implement a home security system by integrating smart phone and IOT. IOT is used remotely to view the activity and get a notification when there is a presence of a nearby object and someone tries to access garage door. Here, Raspberry Pi, ultrasonic sensor etc. are utilized to provide an alarming system that has the ability to notify the owner and allow the owner to access to unlock and lock door through mobile app and stores the time and duration of each activity to the database so that the owner can track usability of vehicles and things by the family members and usability of garage. It also helps the owner to protect the garage from the intruder. Smart Garage Door lock also allows to reduce the fuel consumption by vehicle and reduce time wastage by providing easy access to unlock door.
+AI-GARAGE contains the following features:- 
+
+* Garage door opening with Facial-Recognition.
+
+* Garage door opening with Car number plate detection using OCR.
+
+* Automatic closing of the garage door after 5mins. 
+
+* Live preview of the garage door.
+
+* Controlling the Garage Lights using our Smart Phone.
+
+* Controlling the Garage door using our Smart-Phone.
+
+* Last image when the garage door was opened sent to the app.
+
+* We can also check each and every pic captured while opening the garage door stored securely in the IBM cloud’s Object-Storage.
+
+<h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
+
+[![Demo Video](https://github.com/)](https://youtu.be)
+
+<h2 align="center">Architecture</h1><a name="Architecture"></a>
+
+![Architecture Image](https://github.com/Ayanghosh-agno)
+
+
+## Long Description <a name="Long-Description"></a>
+[Long Description Document Link](https://github.com/Ayanghosh-agno/)
+
+
+### About the hardware setup <a name="hardware-part"></a>
+<div align="center">
+  <img src="https://github.com/Ayanghosh-agno">
+</div>
+
+## Hardware Requirements <a name="Hardware-Requirements"> </a> 
+
+* Jetson Nano
+* 8-channel relay module
+* Raspi V 2.0 camera
+* Garage door actuators(for opening and closing the door mechanically)
+
+
+![Hardware](https://github.com/Ayanghosh-agno)
+
+
+
+
+## Software/Access Requirements<a name="Software/Access-Requirements"></a> 
+ * [IBM developer account](https://cloud.ibm.com/login)
+ * [IBM Watson Services(IoT)](https://cloud.ibm.com/login)
+ * [Node Red](https://cloud.ibm.com/login)
+ * [IBM Cloudant DB](https://cloud.ibm.com/login)
+ * [IBM Object Storage](https://cloud.ibm.com/login)
+ * [Twilio](https://www.twilio.com/) API access- for SMS notifications.
+ * [Python3](https://www.python.org)- for programming the raspberry pi.
+ * [MIT APP INVENTOR](https://appinventor.mit.edu/)-For making the app.
+ * [Open CV](https://opencv.org)
+ * [Tesseract](https://pypi.org/project/pytesseract)
+ * [Face recognition package](https://face-recognition.readthedocs.io/en/latest/readme.html)
+
+
+## Project Roadmap <a name="Project-Roadmap"></a>
+![picture alt](https://github.com/Ayanghosh-agno)
+
+    
+
+
+## Circuit Setup <a name="Circuit-Setup"></a>
+ ![picture alt](https://github.com/Ayanghosh-agno/)
+ 
+ 
+ ## Development/Code-Setup <a name="Development/Code-Setup"></a>
+  
+  ### Upload the python files to Jetson-Nano
+  
+* After uploading change the credentials.py file with your own credential of IBM IoT and Object Storage.
+* Chnage the Twillo credentials with your own credentials at notification.py
+
+
+* Install the following libraries
+
+```
+pip3 install face_recognition
+pip3 install pytesseract
+
+```
+* Now run all the python files
+
+### Import the APP
+
+* Import the App to your smartphone.
+* Now you will be ready to use AI-Garage after connecting the circuit as given. 
+
+## Planned for Future <a name="Planned-for-Future"></a>
+
+
+
+## Contributor<a name="Authors"></a>
+* Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
+
+<a href="https://callforcode.org/"> <img src="https://pbs.twimg.com/profile_images/1374050118043893762/EtW5UgRn_400x400.jpg" height=80px> </a>
