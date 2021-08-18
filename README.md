@@ -83,7 +83,7 @@ AI-GARAGE contains the following features:-
 * Garage door actuators(for opening and closing the door mechanically)
 
 
-![Hardware](https://github.com/Ayanghosh-agno)
+![Hardware](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/Hardware.png)
 
 
 
@@ -103,7 +103,7 @@ AI-GARAGE contains the following features:-
 
 
 ## Project Roadmap <a name="Project-Roadmap"></a>
-![picture alt](https://github.com/Ayanghosh-agno)
+![picture alt](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/AI-GARAGE_roadmap.png)
 
     
 
