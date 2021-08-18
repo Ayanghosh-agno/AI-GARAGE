@@ -72,7 +72,7 @@ AI-GARAGE contains the following features:-
 
 ### About the hardware setup <a name="hardware-part"></a>
 <div align="center">
-  <img src="https://github.com/Ayanghosh-agno">
+  <img src="https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/Hardware-Setup.jpg">
 </div>
 
 ## Hardware Requirements <a name="Hardware-Requirements"> </a> 
