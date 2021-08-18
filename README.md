@@ -136,7 +136,13 @@ pip3 install pytesseract
 
 ## Planned for Future <a name="Planned-for-Future"></a>
 
+1. Improve the facial-recognition part and the number plate recognition part to work it flawlessly.
 
+2. Improve the UI of the app to make more attractive and easy to use.
+
+3. To make a different segment in the app where the admin can check the history of the captured image along with the date and time.
+
+4. Implementing a setting section for the system to train the face and the admin's vehicle number plate to make it super convenient. 
 
 ## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
