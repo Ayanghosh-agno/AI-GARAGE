@@ -109,7 +109,7 @@ AI-GARAGE contains the following features:-
 
 
 ## Circuit Setup <a name="Circuit-Setup"></a>
- ![picture alt](https://github.com/Ayanghosh-agno/)
+ ![picture alt](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/circuit.jpg)
  
  
  ## Development/Code-Setup <a name="Development/Code-Setup"></a>
