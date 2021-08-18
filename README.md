@@ -63,7 +63,7 @@ AI-GARAGE contains the following features:-
 
 <h2 align="center">Architecture</h1><a name="Architecture"></a>
 
-![Architecture Image](https://github.com/Ayanghosh-agno)
+![Architecture Image](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/AI-Garage_Archi.png)
 
 
 ## Long Description <a name="Long-Description"></a>
