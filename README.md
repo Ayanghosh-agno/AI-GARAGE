@@ -37,7 +37,7 @@ The major issue in now a days are the busy life of the human mankind, due to whi
 
 ### Proposed Solution <a name="Proposed-Solution"></a>
 
-In this AI-GARAGE we had tried to eliminate the manual interaction as much as we can, using some latest technology like IoT, AI and ML to control and operate the garage door automatically or through our smartphones. The IoT-based smart garage door eliminates the need for carrying bulky keychains. All we need is to configure and integrate with smartphone with the home IoT network and with our facial image and car’s number plate and we can effortlessly open or close your garage door with just a few clicks of a button or automatically through the facial recognition and number/license plate detection!
+In this AI-GARAGE we had tried to eliminate the manual interaction as much as we can, using some latest technology like IoT, AI and ML to control and operate the garage door automatically or through our smartphones. The IoT-based smart garage door eliminates the need for carrying bulky keychains. All we need is to configure and integrate with smartphone with the home IoT network and with our facial image and car’s number plate and we can effortlessly open or close your garage door with just a few clicks of a button or automatically through the facial recognition and number/license plate detection!Along with some extra features like predicting the resell value of our car and also SMS alert for extra security.
 
 AI-GARAGE contains the following features:- 
 
@@ -55,7 +55,11 @@ AI-GARAGE contains the following features:-
 
 * Last image when the garage door was opened sent to the app.
 
+* SMS alert whenever the gargae door is opened.
+
 * We can also check each and every pic captured while opening the garage door stored securely in the IBM cloud’s Object-Storage.
+
+* We can also check our car's resell value using IBM watson Studio.
 
 <h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
 
@@ -90,7 +94,9 @@ AI-GARAGE contains the following features:-
 
 ## Software/Access Requirements<a name="Software/Access-Requirements"></a> 
  * [IBM developer account](https://cloud.ibm.com/login)
- * [IBM Watson Services(IoT)](https://cloud.ibm.com/login)
+ * [IBM Watson IoT](https://cloud.ibm.com/login)
+ * [IBM Watson Services](https://cloud.ibm.com/login) 
+ * [IBM Auto AI](https://cloud.ibm.com/login)
  * [Node Red](https://cloud.ibm.com/login)
  * [IBM Cloudant DB](https://cloud.ibm.com/login)
  * [IBM Object Storage](https://cloud.ibm.com/login)
@@ -143,6 +149,8 @@ pip3 install pytesseract
 3. To make a different segment in the app where the admin can check the history of the captured image along with the date and time.
 
 4. Implementing a setting section for the system to train the face and the admin's vehicle number plate to make it super convenient. 
+
+5. Predicting best car over a given price range of the admin.
 
 ## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
