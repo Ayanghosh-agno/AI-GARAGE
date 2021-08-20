@@ -5,7 +5,7 @@
 <div align="center">
   
 # AI-GARAGE
-  >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
+  >New Technology, New evolution.
 </div> 
 
 ## What is AI-GARAGE?
