@@ -109,7 +109,7 @@ AI-GARAGE contains the following features:-
 
 
 ## Project Roadmap <a name="Project-Roadmap"></a>
-![picture alt](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/AI-GARAGE_roadmap.png)
+![picture alt](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/roadmap.png)
 
     
 
