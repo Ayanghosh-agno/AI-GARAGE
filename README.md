@@ -63,7 +63,7 @@ AI-GARAGE contains the following features:-
 
 <h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
 
-[![Demo Video](https://github.com/Ayanghosh-agno/AI-GARAGE/blob/main/Images/Thumbnail.JPG)](https://youtu.be)
+[![Demo Video](https://github.com/Ayanghosh-agno/AI-GARAGE/blob/main/Images/Thumbnail.JPG)](https://youtu.be/tySbWQdXop4)
 
 <h2 align="center">Architecture</h1><a name="Architecture"></a>
 
