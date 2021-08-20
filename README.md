@@ -78,13 +78,7 @@ AI-GARAGE contains the following features:-
 ### More about the UI <a name="More-about-the-UI"></a>
 *Sample of the APP UI:*
 <div align="center">
-
-<img src="https://github.com/Ayanghosh-agno/">
-  <br>
-    <br>
-   <img src="https://github.com/Ayanghosh-agno/">
-
-
+<img src="https://github.com/Ayanghosh-agno/AI-GARAGE/blob/main/Images/UI_.png">
 </div>
 
 
