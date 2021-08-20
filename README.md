@@ -20,6 +20,8 @@ The AI GARAGE is a prototype of the smart garage system, which is one of the ess
   2. [Demo Video](#Demo-Video)
   3. [Architecture](#Architecture)
   4. [Long Description](#Long-Description)
+      - [More about the UI](#More-about-the-UI)
+      - [About the hardware setup](#hardware-part)
   5. [Hardware Requirements](#Hardware-Requirements)
   6. [Software/Access Requirements](#Software/Access-Requirements)
   7. [Project Roadmap](#Project-Roadmap)
@@ -72,6 +74,19 @@ AI-GARAGE contains the following features:-
 
 ## Long Description <a name="Long-Description"></a>
 [Long Description Document Link](https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/DOCUMENTATION/AI-GARAGE.pdf)
+
+### More about the UI <a name="More-about-the-UI"></a>
+*Sample of the APP UI:*
+<div align="center">
+
+<img src="https://github.com/Ayanghosh-agno/">
+  <br>
+    <br>
+   <img src="https://github.com/Ayanghosh-agno/">
+
+
+</div>
+
 
 
 ### About the hardware setup <a name="hardware-part"></a>
