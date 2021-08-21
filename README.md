@@ -65,7 +65,7 @@ AI-GARAGE contains the following features:-
 
 <h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
 
-[![Demo Video](https://github.com/Ayanghosh-agno/AI-GARAGE/blob/main/Images/Thumbnail.JPG)](https://youtu.be/tySbWQdXop4)
+[![Demo Video](https://github.com/Ayanghosh-agno/AI-GARAGE/blob/main/Images/Thumbnail.JPG)](https://youtu.be/0l0E9GV1Ty0)
 
 <h2 align="center">Architecture</h1><a name="Architecture"></a>
 
@@ -104,8 +104,8 @@ AI-GARAGE contains the following features:-
 ## Software/Access Requirements<a name="Software/Access-Requirements"></a> 
  * [IBM developer account](https://cloud.ibm.com/login)
  * [IBM Watson IoT](https://cloud.ibm.com/login)
+ * [IBM Watson Studio](https://cloud.ibm.com/login) 
  * [IBM Watson Services](https://cloud.ibm.com/login) 
- * [IBM Auto AI](https://cloud.ibm.com/login)
  * [Node Red](https://cloud.ibm.com/login)
  * [IBM Cloudant DB](https://cloud.ibm.com/login)
  * [IBM Object Storage](https://cloud.ibm.com/login)
