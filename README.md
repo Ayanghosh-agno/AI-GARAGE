@@ -131,9 +131,10 @@ AI-GARAGE contains the following features:-
   
   ### Upload the python files to Jetson-Nano
   
-* After uploading change the credentials.py file with your own credential of IBM IoT and Object Storage.
-* Chnage the Twillo credentials with your own credentials at notification.py
-
+* After uploading change the credentials.py file with your own credential of IBM Cloud services.
+* Chnage the Twillo credentials with your own credentials.
+* Insert a training image for the faial recognition in the project directory and change the variables in the train_face.py. Also change input their name which you want to hover after successfully recognising them in Face_rec.py.
+* Do the connecting as shown above with the relay module and Jetson-nano.
 
 * Install the following libraries
 
